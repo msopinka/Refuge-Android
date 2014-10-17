@@ -3,6 +3,9 @@ Refuge-Android
 
 Android app for RefugeRestrooms.org
 
+Play Store:
+https://play.google.com/store/apps/details?id=com.sopinka.refuge
+
 Requirements To Build
 ==============
 
